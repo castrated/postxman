@@ -1,0 +1,12 @@
+Stamping Rules:
+
+Stamps are to be printed off on adhesive-backed paper, 
+and stuck to the proper fields on request forms. They
+can help identify sources, as well as what the sender
+would like to do with the request. All request forms
+must have a stamp on it, otherwise they will be
+considered null requests.
+
+List of current stamps:
+
+default:                  A default "filler" stamp.
