@@ -1,0 +1,46 @@
+THIS IS A POSTXMAN "AUTHENTICATION" FORM. HEED THY CALL.
+
+Please circle your method:
+
+BASIC   BEARER    OAUTH2
+
+
+If you selected "BASIC", please write the username and password below.
+
+Username: ____________________________
+Password: ____________________________
+
+☐ Include in URL
+
+If you selected "BEARER", please write the token below.
+
+Token: _______________________________________________
+
+If you selected "OAUTH2", please write the token below.
+
+Token: _______________________________________________
+
+Place your header stamps below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name: __________________________________________
+Your IP Address: ____________________________________
+Pigeon Name: ________________________________________
+Pigeon ID: __________________________________________
+Request Number: _____________________________________
