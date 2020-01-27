@@ -2,7 +2,7 @@ THIS IS A POSTXMAN "REQUEST" FORM. HEED THY CALL.
 
 Please circle your method:
 
-GET   POST    PUT   HEAD    DELETE    PATCH   OPTIONS
+GET   POST    PUT   HEAD    DELETE    PATCH   OPTIONS   CONNECT   TRACE
 
 Please write your URL target:
 
