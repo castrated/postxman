@@ -1,0 +1,43 @@
+THIS IS A POSTXMAN "REQUEST" FORM. HEED THY CALL.
+
+Please circle your method:
+
+GET   POST    PUT   HEAD    DELETE    PATCH   OPTIONS
+
+Please write your URL target:
+
+_________________________________________________
+
+Please circle your prefix:
+
+HTTP    FTP   HTTPS
+
+
+Please include your PATH:
+
+_________________________________________________
+
+Place your label stamps below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name: __________________________________________
+Your IP Address: ____________________________________
+Pigeon Name: ________________________________________
+Pigeon ID: __________________________________________
+Request Number: _____________________________________
